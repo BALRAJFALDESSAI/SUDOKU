@@ -1,0 +1,4 @@
+backtracking paython start from the top
+1st blank or 0 in 1st row is taken and checked which value it can take i.e. 1 to 9
+and so on 
+but there can be a case where a certain number take a spot but that's not it's original place in that case when it discover that problem then it back track and find the next appro number for that spot
